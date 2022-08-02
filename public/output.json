@@ -1,0 +1,32 @@
+ [
+  {
+    "name": "Cardiology",
+    "img": "https://cdn-icons-png.flaticon.com/512/1186/1186643.png",
+    "detail": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist."
+  },
+  {
+    "name": "Neurology",
+    "img": "https://cdn-icons.flaticon.com/png/512/2969/premium/2969086.png?token=exp=1634734685~hmac=4351362400eaaeaa9b88cea0167e3009",
+    "detail": "Neurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system.he nervous s ystem is a complex."
+  },
+  {
+    "name": "Gastroenterology",
+    "img": "https://cdn-icons-png.flaticon.com/512/4743/4743277.png",
+    "detail": "Gastroenterology is the study of the normal function and diseases of the esophagus, stomach, small intestine, colon and rectum, pancreas, gallbladder, bile ducts and liver."
+  },
+  {
+    "name": "Hematology",
+    "img": "https://cdn-icons-png.flaticon.com/512/4006/4006066.png",
+    "detail": "Hematology is the science or study of blood, blood-forming organs and blood diseases. In the medical field, hematology includes the treatment of blood disorders."
+  },
+  {
+    "name": "Ophthalmology",
+    "img": "https://cdn-icons-png.flaticon.com/512/88/88099.png",
+    "detail": "Ophthalmologists diagnose and treat injuries, infections, diseases, and disorders of the eye. Treatments can include medication taken orally (by mouth) or topically (in the eye)."
+  },
+  {
+    "name": "Radiology",
+    "img": "https://cdn-icons-png.flaticon.com/512/642/642739.png",
+    "detail": "Radiology is a branch of medicine that uses imaging technology to diagnose and treat disease. Radiology may be divided into two different areas, diagnostic radiology"
+  }
+]
