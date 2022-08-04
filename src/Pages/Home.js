@@ -17,7 +17,7 @@ const Home = () => {
            <div className="mt-5 search">
             <input onChange={e=>{setInput(e.target.value)}} type="text" placeholder="search"/>
            </div>
-                      <div className="grid mt-2 p-5">
+                      <div className="row g-4 mt-2 p-5">
                      {  
                         currentPageData.filter((val) => {
                               if(input ==""){
